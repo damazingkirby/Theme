@@ -1,9 +1,10 @@
 "workbench.colorCustomizations": {
         "tab.activeBorder": "#ff0000", //<--- applies to all theme
         "tab.unfocusedActiveBorder": "#000000a8",
-        "tab.unfocusedHoverBackground": "#7a7a7a0a",
+        "tab.unfocusedHoverBackground": "#383838e1",
         "tab.activeBackground": "#0459804b",//<--- BG: My Most Favourite.
         "gitDecoration.modifiedResourceForeground": "#FF8A80",
-        "tab.inactiveBackground": "#000000d8"
+        "tab.inactiveBackground": "#000000",
+        "tab.hoverBackground": "#3f3f3f57"
 
     }
